@@ -1,2 +1,2 @@
 # knowledge-base
-Список заинтересовавших материалов
+Список заинтересовавших материалов в [wiki](https://github.com/KlimMalgin/knowledge-base/wiki)
