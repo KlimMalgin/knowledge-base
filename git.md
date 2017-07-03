@@ -7,3 +7,6 @@
 *Отмена мержа если он не закоммичен (например, при конфликте)*
 
 `git merge --abort`
+
+
+http://tonyganch.com/git/reset/
