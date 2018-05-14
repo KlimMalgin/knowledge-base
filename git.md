@@ -10,3 +10,8 @@
 
 
 http://tonyganch.com/git/reset/
+
+
+*Удаление локальной ветки*
+
+`git branch -d the_local_branch`
